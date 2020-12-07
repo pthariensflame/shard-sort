@@ -8,5 +8,6 @@
 *.agda~
 .#*.agda
 ./agda-stdlibMAlonzo/**
+MAlonzo/**
 
 
