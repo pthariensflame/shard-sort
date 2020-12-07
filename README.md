@@ -42,7 +42,7 @@ the following languages are planned (if unchecked) or have
 implementations in them (if checked):
 
 - [ ] Ada
-- [ ] Agda
+- [ ] [Agda](./Agda)
 - [ ] C
 - [ ] C++
 - [ ] COBOL
