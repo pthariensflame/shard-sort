@@ -30,7 +30,10 @@ Let's break that down:
   worst-case when the data contains many sorted and/or reverse-sorted
   “runs”, and when those runs are longer and/or fewer in number
 
-This repository contains implementations of shard sort in a number of
+A pseudocode explanation of the algorithm, with running commentary, is
+in [`Pseudocode.md`](./Pseudocode.md).
+
+Additionally, this repository contains implementations of shard sort in a number of
 programming languages, each in their own folder.  A basic effort has
 been made to provide reasonably standard building and packaging of the
 code for each language; where applicable, publication to community
@@ -87,7 +90,7 @@ implementations in them (if checked):
 - [ ] R
 - [ ] Raku
 - [ ] Ruby
-- [ ] Rust
+- [ ] [Rust](./Rust)
 - [ ] Scala
 - [ ] Scheme
 - [ ] Smalltalk
@@ -105,5 +108,5 @@ documentation, are all welcome!
 
 All of the code is in the public domain, as specified by [the
 Unlicense](https://unlicense.org), which can be found next to this
-README in the file `UNLICENSE`.  All contributors are expected to
+README in the file [`UNLICENSE`](./UNLICENSE).  All contributors are expected to
 agree to this too.
