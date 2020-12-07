@@ -14,7 +14,7 @@ author:              Alexander Ronald Altman
 maintainer:          alexanderaltman@me.com
 -- copyright:
 -- category:
--- extra-source-files:
+extra-source-files:  README.md
 
 library
   exposed-modules:     MyLib
