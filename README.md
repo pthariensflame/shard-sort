@@ -66,7 +66,7 @@ implementations in them (if checked):
 - [ ] Gluon
 - [ ] Go
 - [ ] Groovy
-- [ ] Haskell
+- [ ] [Haskell](./Haskell)
 - [ ] Haxe
 - [ ] ISPC
 - [ ] Idris
