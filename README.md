@@ -1,4 +1,3 @@
-
 # Shard sort
 
 *Shard sort* is a general-purpose non-recursive incremental
@@ -17,9 +16,9 @@ Let's break that down:
   recursion incidentally)
 - **Incremental**: shard sort makes a single pass over the input in
   guaranteed linear time and at most linear space, then exposes an
-  iteration-like interface to incrementally compute the elements in
-  sorted order; each such computation uses at most linear time and
-  guaranteed constant space
+  iteration-like “pull” interface to incrementally compute the
+  elements in sorted order; each such computation uses at most linear
+  time and guaranteed constant space
 - **out-of-place**: shard sort does not modify the data it sorts;
   instead it produces the sorted elements as an incrementally driven
   sequence, copying them in a configurable fashion from the original
@@ -36,7 +35,10 @@ programming languages, each in their own folder.  A basic effort has
 been made to provide reasonably standard building and packaging of the
 code for each language; where applicable, publication to community
 package repositories has been done (or else is planned).
+Contributions of implementations for other languages, or of
+improvements to the existing implementations, are welcome!
 
 All of the code is in the public domain, as specified by [the
 Unlicense](https://unlicense.org), which can be found next to this
-README in the file `UNLICENSE`.
+README in the file `UNLICENSE`.  All contributors are expected to
+agree to this too.
