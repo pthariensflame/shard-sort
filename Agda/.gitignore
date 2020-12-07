@@ -7,7 +7,5 @@
 *.agda#
 *.agda~
 .#*.agda
-./agda-stdlibMAlonzo/**
+./agda-stdlib
 MAlonzo/**
-
-
