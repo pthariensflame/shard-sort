@@ -34,9 +34,74 @@ This repository contains implementations of shard sort in a number of
 programming languages, each in their own folder.  A basic effort has
 been made to provide reasonably standard building and packaging of the
 code for each language; where applicable, publication to community
-package repositories has been done (or else is planned).
-Contributions of implementations for other languages, or of
-improvements to the existing implementations, are welcome!
+package repositories has been done (or else is planned).  Currently,
+the following languages are planned (if unchecked) or have
+implementations in them (if checked):
+
+- [ ] Ada
+- [ ] Agda
+- [ ] C
+- [ ] C++
+- [ ] COBOL
+- [ ] Chapel
+- [ ] Clojure
+- [ ] Common Lisp
+- [ ] Coq
+- [ ] C♯
+- [ ] D
+- [ ] Dart
+- [ ] Elixir
+- [ ] Elm
+- [ ] Emacs Lisp
+- [ ] Erlang
+- [ ] Fantom
+- [ ] Fortran
+- [ ] Futhark
+- [ ] F★
+- [ ] F♯
+- [ ] Gleam
+- [ ] Gluon
+- [ ] Go
+- [ ] Groovy
+- [ ] Haskell
+- [ ] Haxe
+- [ ] ISPC
+- [ ] Idris
+- [ ] Java
+- [ ] JavaScript
+- [ ] Julia
+- [ ] Kotlin
+- [ ] LaTeX3
+- [ ] Lean
+- [ ] Lua
+- [ ] Nim
+- [ ] Objective-C
+- [ ] Octave
+- [ ] O’Caml
+- [ ] Pascal
+- [ ] Perl 5
+- [ ] Pony
+- [ ] Prolog
+- [ ] Purescript
+- [ ] Python 3
+- [ ] R
+- [ ] Raku
+- [ ] Ruby
+- [ ] Rust
+- [ ] Scala
+- [ ] Scheme
+- [ ] Smalltalk
+- [ ] Swift
+- [ ] Tcl
+- [ ] TypeScript
+- [ ] Typed Racket
+- [ ] Visual Basic .NET
+- [ ] Zig
+- [ ] λProlog
+
+Contributions of implementations for these language or for any other
+languages, or of improvements to the existing implementations or any
+documentation, are all welcome!
 
 All of the code is in the public domain, as specified by [the
 Unlicense](https://unlicense.org), which can be found next to this
