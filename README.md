@@ -72,7 +72,7 @@ implementations in them (if checked):
 - [ ] Idris
 - [ ] Java
 - [ ] JavaScript
-- [ ] Julia
+- [ ] [Julia](./Julia)
 - [ ] Kotlin
 - [ ] LaTeX3
 - [ ] Lean
